@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+.vagrant/
+pima-20160614.pcap
+pima-extract.csv
+*.pyc
